@@ -15,7 +15,7 @@ module.exports = {
   // ...
   plugins: [
     [
-      "vuepress-plugin-music-player", // 导入noxone播放器
+      "@noxone/vuepress-plugin-music-player", // 导入noxone播放器
       {
         musicList: [ // 音乐列表 必填
           { 
@@ -25,7 +25,7 @@ module.exports = {
           },
           // 或者，在 ./docs/.vuepress/public文件夹存放资源，使用相对路径的方式配置
           { 
-            cover: '/imgs/Mojito.jpg', 
+            cover: '/imgs/Mojito.jpg',
             title: 'Mojito',
             link: '/music/Mojito.mp3',
           },
@@ -40,3 +40,4 @@ module.exports = {
   ]
 }
 ```
+

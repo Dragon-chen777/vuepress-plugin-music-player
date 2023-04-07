@@ -1,9 +1,9 @@
 ## 0. 欢迎在vuepress中使用noxone-music-player
 嗯... 这是我的第一个音乐播放器插件，基于2020年自己写的[音乐播放器demo](https://dragon-chen777.github.io/Music-player/)进行重构， 喜欢的话，给个⭐⭐噢，您的支持就是我创作的最大动力！
 
-欢迎到访我的小破站：[NOxONE](https://dragon-chen777.github.io/NOxONE/)
+插件github仓库：[Dragon-chen777](https://github.com/Dragon-chen777/vuepress-plugin-music-player)
 
-我的Github：[Dragon-chen777](https://github.com/Dragon-chen777)
+同时欢迎各位到访我的小破站：[NOxONE](https://dragon-chen777.github.io/NOxONE/)
 ## 1. 导入
 ```sheel
 npm i @noxone/vuepress-plugin-music-player

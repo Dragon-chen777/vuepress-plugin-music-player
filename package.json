@@ -1,0 +1,17 @@
+{
+  "name": "@noxone/vuepress-plugin-music-player",
+  "version": "1.0.1",
+  "description": "this is a tiny but awesome musicPlayer for vuepress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Vue",
+    "Vuepress",
+    "MusicPlayer",
+    "Plugin"
+  ],
+  "author": "noxone",
+  "license": "ISC"
+}

@@ -26,7 +26,7 @@ module.exports = {
   // ...
   plugins: [
     [
-      "vuepress-plugin-music-player", // 导入noxone播放器
+      "@noxone/vuepress-plugin-music-player", // 导入noxone播放器
       {
         musicList: [ // 音乐列表 必填
           { 
